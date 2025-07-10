@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/avik-creator-googlecalendarmcp-badge.png)](https://mseep.ai/app/avik-creator-googlecalendarmcp)
+
 # Google Calendar Integration Project
 [![smithery badge](https://smithery.ai/badge/@Avik-creator/googlecalendarMCP)](https://smithery.ai/server/@Avik-creator/googlecalendarMCP)
 
